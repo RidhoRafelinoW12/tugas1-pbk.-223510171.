@@ -5,10 +5,10 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/profil.JPG" width="275" height="400" />
+    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="275" height="400" />
 
     <div class="wrapper">
-      <HelloWorld msg="Ridho Rafelino Wahyudi!!" />
+      <HelloWorld msg="Ridho Rafelino W!" />
     </div>
   </header>
 
